@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$-beta</version>
+    <title>MeetEric Universal </title>
+    <authors>MeetEric.NET</authors>
+    <owners>MeetEric.NET</owners>
+    <licenseUrl>https://raw.githubusercontent.com/ericmaino/meeteric.libraries/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ericmaino/meeteric.libraries</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A set of useful classes to use with Universal Windows</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright c MeetEric.NET. All Rights Reserved.</copyright>
+    <tags>MeetEric Universal Windows</tags>
+  </metadata>
+</package>
